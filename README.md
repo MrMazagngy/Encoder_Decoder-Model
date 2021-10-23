@@ -1,2 +1,2 @@
 # Encoder_Decoder-Model
-An implementation of the Encoder-Decoder Model to predict stock prices
+An implementation of the Encoder-Decoder Model with custom features to predict stock prices
